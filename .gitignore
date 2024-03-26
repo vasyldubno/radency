@@ -1,0 +1,10 @@
+server/node_modules
+server/dist
+server/yarn.lock
+
+client/node_modules
+client/.env
+client/yarn.lock
+client/dist
+
+db
